@@ -28,5 +28,3 @@ if (password != "" && checkLowerCase.test(password) && checkNumber.test(password
 else 
   return false;
 }
-// password_is_valid("sephulaerS1");
-// password_is_ok("sephulaerS1");
